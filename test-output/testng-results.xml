@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-25T16:35:21 CST" name="Default suite" finished-at="2021-02-25T16:35:54 CST" duration-ms="32969">
+    <groups>
+    </groups>
+    <test started-at="2021-02-25T16:35:21 CST" name="Default test" finished-at="2021-02-25T16:35:54 CST" duration-ms="32969">
+      <class name="com.att.automation.webpages.HomePageTest">
+        <test-method is-config="true" signature="launch()[pri:0, instance:com.att.automation.webpages.HomePageTest@5db45159]" started-at="2021-02-25T16:35:21 CST" name="launch" finished-at="2021-02-25T16:35:23 CST" duration-ms="2779" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="containersCountAndHeaderVerification()[pri:0, instance:com.att.automation.webpages.HomePageTest@5db45159]" started-at="2021-02-25T16:35:23 CST" name="containersCountAndHeaderVerification" finished-at="2021-02-25T16:35:26 CST" duration-ms="2714" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- containersCountAndHeaderVerification -->
+        <test-method signature="dealsVerification()[pri:1, instance:com.att.automation.webpages.HomePageTest@5db45159]" started-at="2021-02-25T16:35:26 CST" name="dealsVerification" finished-at="2021-02-25T16:35:31 CST" duration-ms="5232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dealsVerification -->
+        <test-method signature="phonesAndDevicesVerification()[pri:2, instance:com.att.automation.webpages.HomePageTest@5db45159]" started-at="2021-02-25T16:35:31 CST" name="phonesAndDevicesVerification" finished-at="2021-02-25T16:35:37 CST" duration-ms="5442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- phonesAndDevicesVerification -->
+        <test-method signature="wirelesssVerification()[pri:3, instance:com.att.automation.webpages.HomePageTest@5db45159]" started-at="2021-02-25T16:35:37 CST" name="wirelesssVerification" finished-at="2021-02-25T16:35:43 CST" duration-ms="5890" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wirelesssVerification -->
+        <test-method signature="accountButtonVerification()[pri:4, instance:com.att.automation.webpages.HomePageTest@5db45159]" started-at="2021-02-25T16:35:43 CST" name="accountButtonVerification" finished-at="2021-02-25T16:35:46 CST" duration-ms="3543" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accountButtonVerification -->
+        <test-method signature="headBandElementsVerification()[pri:5, instance:com.att.automation.webpages.HomePageTest@5db45159]" started-at="2021-02-25T16:35:46 CST" name="headBandElementsVerification" finished-at="2021-02-25T16:35:49 CST" duration-ms="3031" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- headBandElementsVerification -->
+        <test-method signature="mainMenuBarListVerification()[pri:6, instance:com.att.automation.webpages.HomePageTest@5db45159]" started-at="2021-02-25T16:35:49 CST" name="mainMenuBarListVerification" finished-at="2021-02-25T16:35:53 CST" duration-ms="3919" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mainMenuBarListVerification -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:com.att.automation.webpages.HomePageTest@5db45159]" started-at="2021-02-25T16:35:53 CST" name="quit" finished-at="2021-02-25T16:35:54 CST" duration-ms="383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.att.automation.webpages.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
